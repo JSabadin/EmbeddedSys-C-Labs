@@ -7,7 +7,7 @@ This repository hosts a collection of embedded systems programming exercises in 
 ## Exercises
 
 ### 1. noSync Image Operations
-This exercise focuses on implementing non-synchronous image processing operations, resembling FIFO buffer characteristics. It demonstrates the consequeces of when the synchronization between processes such as capturing, updating, and displaying images is not used.
+This exercise focuses on implementing non-synchronous image processing operations. It demonstrates the consequeces of when the synchronization between processes such as capturing, updating, and displaying images is not used.
 
 ### 2. FIFO Image Capture, Update, and Display
 This exercise uses a FIFO buffer to manage image data, demonstrating capture, update, and display functionalities in an embedded context.
